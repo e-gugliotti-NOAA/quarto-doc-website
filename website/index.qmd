@@ -24,7 +24,8 @@ SS3 is made up of:
 -   A statistical sub-model characterizes the data's goodness of fit and obtains best-fitting parameters with associated variance, and
 -   A forecast sub-model projects needed management quantities.
 
-There are 100+ stocks in the US and throughout the world that use SS3 for which we have provided many national, international, and web-based trainings on SS3. Additionally, we have a very active user-base that contributes heavily to SS3 and the associated R packages as well as participating in the online discussions and forums.
+SS3 has a long history in support of stock assessments.  SS3 was developed by NOAA scientist Richard Methot in 1984 at San Diego, CA. This original application was for northern anchovy and the model was patterned after the concepts in Fournier & Archibald (1982). In 1989 a generalized version was developed for Pacific hake and sablefish along the U.S. west coast. This version, written in FORTRAN and using numerical derivatives, also began to be used in Alaska and Australia. In 2004, the model was translated into ADMB to take advantage of its analytical derivatives. Use of this version expanded further to ICES assessments and assessments for Atlantic and Pacific tunas and billfishes.  It also became a platform for instruction in stock assessment at the University of Washington, and it became prominent in the series of CAPAM workshops on good stock assessment practices.
+There are 100+ stocks in the US and more throughout the world that use SS3. We and our colleagues have provided many national, international, and web-based trainings on SS3 for this community. Additionally, we have a very active user-base that contributes heavily to SS3 and the associated R packages as well as participating in the online discussions and forums.
 ![](qmds/images/ss3_map.png){width="90%"}
 
 
